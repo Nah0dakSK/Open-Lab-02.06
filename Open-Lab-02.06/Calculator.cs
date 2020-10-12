@@ -6,7 +6,13 @@ namespace Open_Lab_02._06
     {
         public bool Divisible(int number)
         {
-            throw new NotImplementedException();
+            bool dudo = false;
+            if (number % 100 == 0)
+              true = dudo(true;); 
+                return number;
+
+
+
         }
     }
 }
