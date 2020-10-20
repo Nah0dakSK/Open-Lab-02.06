@@ -8,7 +8,7 @@ namespace Open_Lab_02._06
         {
             bool dudo = false;
             if (number % 100 == 0)
-              true = dudo(true;); 
+              dudo = true; 
                 return number;
 
 
